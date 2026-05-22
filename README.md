@@ -24,20 +24,6 @@ http://aisha-portfolio-2026-729911085451-us-east-1-an.s3-website-us-east-1.amazo
 ## GitHub Repository
 https://github.com/AS88-bot/DecodeLabs-Internship
 
-## Screenshots
-
-### Portfolio Website
-![Portfolio Website](screenshots/website.png)
-
-### AWS S3 Hosting
-![AWS S3](screenshots/s3-bucket.png)
-
-### Static Web Hostin
-![AWS S3](screenshots/static-web-hosting.png)
-
-### GitHub Repository
-![GitHub Repo](screenshots/github-repo.png)
-
 ## Project Status
 Completed ✅
 
