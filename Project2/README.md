@@ -24,3 +24,6 @@ Successfully hosted:
 
 ## Public IP
 54.91.168.150
+
+## Author
+Aisha Sultana
