@@ -24,5 +24,5 @@ Table Name: Interns
 ## Outcome
 Successfully created and tested a NoSQL cloud database with persistent storage using AWS DynamoDB.
 
-##Author
+## Author
 Aisha Sultana
