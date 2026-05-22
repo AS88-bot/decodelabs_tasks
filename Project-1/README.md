@@ -22,7 +22,7 @@ The objective was to host a static portfolio website using AWS S3 Static Website
 http://aisha-portfolio-2026-729911085451-us-east-1-an.s3-website-us-east-1.amazonaws.com/
 
 ## GitHub Repository
-https://github.com/AS88-bot/DecodeLabs-Internship
+https://github.com/AS88-bot/decodelabs_tasks.git
 
 ## Project Status
 Completed ✅
