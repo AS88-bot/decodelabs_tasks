@@ -28,4 +28,4 @@ https://github.com/AS88-bot/DecodeLabs-Internship
 Completed ✅
 
 ## Author
-Aisha S
+Aisha Sultana
